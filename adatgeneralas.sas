@@ -1,3 +1,5 @@
+*/ Adatgeneráló fájl, készítette [Csicsman József](https://math.bme.hu/~csicsman/index.html) tanár úr. */
+
 DATA TERMEK (keep= TERMEK_ID TERMEKCSOPORT ANYAG 
 		   PROFIL TIPUS NYITAS_IRANYA 
 		   UVEG_TIPUSA SZELE HOSSZA DARABSZAM
